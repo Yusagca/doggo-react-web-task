@@ -3,7 +3,7 @@
 import { Provider } from 'react-redux';
 import { store } from './store/store'; // Redux Store
 import Sidebar from './components/Sidebar';
-import '/Users/yusagca/Desktop/doggo-react-web-task/app/globals.css';
+import './globals.css';
 
 export default function RootLayout({
   children,
