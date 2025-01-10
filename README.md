@@ -2,7 +2,7 @@
 
 Öncelikle merhaba.Tasarımda temel olarak figmadaki tasarımı aldım ancak birebir iconları bulamadım maalesef. İlk defa Next.js ve JSON-server ile çalıştım bundan önce hiç bu kütüphanelerle ve bu kadar büyük bir veri setiyle çalışmamıştım. Ama genel olarak projenin hızından ve optimizasyonundan memnunum.
 
-Kendimle ilgili olarak stajım uzun dönem İME stajı.Belgeler için başlangıç tarihi: 03.02.2025 bitiş tarihi:18.05.2025. İkinci dönemim tamamen staja ayrıldığından dolayı herhangi bi gün sınırım yok haftanın 5 günü uzaktan veyahut ofisten çalışabilirim. Staj dönemimde olabildiğince sektörel tecrübe kazanmak ve teknik anlamda gelişmek benim için çok önemli.
+Kendimle ilgili olarak stajım uzun dönem İME stajı.Belgeler için başlangıç tarihi: 03.02.2025 bitiş tarihi:18.05.2025. İkinci dönemim tamamen staja ayrıldığından dolayı herhangi bi gün sınırım yok haftanın 5 günü uzaktan veyahut İstanbul'da ofisten çalışabilirim. Staj dönemimde olabildiğince sektörel tecrübe kazanmak ve teknik anlamda gelişmek benim için çok önemli.
 
 
 Proje kapsamında **React**, **Redux**, **TypeScript**, **Tailwind CSS** gibi teknolojilerin yanı sıra **JSON Server** ve **Next.js** altyapısı kullanılmıştır.
