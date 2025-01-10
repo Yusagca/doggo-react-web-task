@@ -2,6 +2,8 @@
 
 Bu proje, **Doggo React Web Task** adıyla bir sosyal medya uygulaması geliştirme amacı taşımaktadır. Projenin temel amacı, modern web teknolojilerini kullanarak dinamik, performanslı ve kullanıcı dostu bir sosyal medya platformu oluşturmaktır. Proje kapsamında **React**, **Redux**, **TypeScript**, **Tailwind CSS** gibi teknolojilerin yanı sıra **JSON Server** ve **Next.js** altyapısı kullanılmıştır. Aynı zamanda bu proje, staj başvuru sürecinde verilen teknik görevlerin yerine getirilmesi için hazırlanmıştır.
 
+## Vercel Linki: [https://doggo-react-web-task-70cjjhr43-halil-yusa-agcas-projects.vercel.app/](https://doggo-react-web-task-70cjjhr43-halil-yusa-agcas-projects.vercel.app/)
+
 ---
 
 ## Geliştirici Bilgileri
