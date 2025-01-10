@@ -1,0 +1,35 @@
+{
+  "name": "doggo-react-web-task",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "server": "json-server --watch post_dataset.json --port 3001"
+  },
+  "dependencies": {
+    "@reduxjs/toolkit": "^2.5.0",
+    "next": "14.2.12",
+    "react": "^18",
+    "react-dom": "^18",
+    "react-icons": "^5.4.0",
+    "react-redux": "^9.2.0",
+    "react-window": "^1.8.11",
+    "redux-persist": "^6.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "@types/react-window": "^1.8.8",
+    "autoprefixer": "^10.4.20",
+    "eslint": "^8",
+    "eslint-config-next": "14.2.12",
+    "json-server": "^1.0.0-beta.3",
+    "postcss": "^8.4.49",
+    "tailwindcss": "^3.4.17",
+    "typescript": "^5"
+  }
+}
