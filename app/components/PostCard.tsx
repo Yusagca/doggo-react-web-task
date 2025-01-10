@@ -127,7 +127,13 @@ const PostCard = ({
                   <span className="font-semibold">{comment.username}:</span>{" "}
                   {comment.content}
                 </p>
-                <p className="text-xs text-gray-500">{comment.timestamp}</p>
+                <p className='text-xs text-gray-500'>
+                {new Date(comment.timestamp).toLocaleDateString('en-US', {
+                  year: 'numeric',
+                  month: 'long',
+                  day: 'numeric',
+                })}
+                </p>
               </div>
             ))
           ) : (
