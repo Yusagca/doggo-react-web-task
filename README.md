@@ -169,6 +169,15 @@ Sanallaştırma için `react-window` kullanılarak yalnızca görünür öğeler
    - React Window ve Tailwind CSS.
 
 ---
+## İndirme ve Kurulum:
+
+1. **Proje dizininde npm install ile node modules klasörünü projeye indirin**
+
+2. **npm run server ile serveri başlatın. Server 3001 portunda çalışacaktır.**
+
+3. **npm run dev yazarak projeyi localhost://3000 linkinde test edebilirsiniz**
+
+
 
 ## Sonuç
 
